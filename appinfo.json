@@ -1,0 +1,27 @@
+{
+  "uuid": "a4a613b5-8a6b-4ff0-bd80-0038a151cd86",
+  "shortName": "Authentikey",
+  "longName": "Authentikey 2.0",
+  "companyName": "pokey9000/zandegran",
+  "versionCode": 1,
+  "versionLabel": "2.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/twostep_icon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_KEY",
+        "file": "images/key.png"
+      }
+    ]
+  }
+}
